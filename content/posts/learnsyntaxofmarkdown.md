@@ -92,7 +92,7 @@ You can nest an unordered list in an ordered list, or vice versa.
 
 
 # **Links**  
-o create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).  
+to create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).  
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).  
 click here(https://google.com)  
 
