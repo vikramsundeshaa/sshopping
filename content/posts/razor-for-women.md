@@ -6,9 +6,5 @@ draft: false
 
 # Best rozor for girls
 
-
 ![Best razor for girls](/image/razor.jpg)
 shop on amazon by [clicking here...](https://amzn.to/3weGYLQ)
-
-
-
